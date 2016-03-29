@@ -1,3 +1,3 @@
 #!bin/bash
 bower install --config.interactive=false
-grunt
+./node_modules/grunt-cli/bin/grunt
